@@ -1,7 +1,7 @@
 web-rootkit
 ===========
 
-A collection of rootkits capable to run on a web server
+A collection of shell rootkits capable to run on a web server
 
 I didn't write them, i found them on the Internet and i want to share to others.
 
